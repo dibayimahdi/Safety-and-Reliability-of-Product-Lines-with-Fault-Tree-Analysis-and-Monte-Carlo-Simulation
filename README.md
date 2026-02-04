@@ -14,6 +14,7 @@ Reference Publication
 🗓️ Conference Dates: 27–30 July 2025
 🔗 DOI: 10.1109/ICRMS65480.2025.00059
 📖 Available on: IEEE Xplore (Document ID: 11248265)
+👉 https://ieeexplore.ieee.org/document/11248265
 
 Use Case
 This fault tree can be used to:
